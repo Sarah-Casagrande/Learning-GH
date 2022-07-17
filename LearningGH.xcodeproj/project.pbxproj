@@ -14,6 +14,7 @@
 		E18A8433288488E20049008C /* LearningGHTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18A8432288488E20049008C /* LearningGHTests.swift */; };
 		E18A843D288488E20049008C /* LearningGHUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18A843C288488E20049008C /* LearningGHUITests.swift */; };
 		E18A843F288488E20049008C /* LearningGHUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18A843E288488E20049008C /* LearningGHUITestsLaunchTests.swift */; };
+		E18A844C288492B60049008C /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18A844B288492B60049008C /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		E18A8438288488E20049008C /* LearningGHUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearningGHUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E18A843C288488E20049008C /* LearningGHUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningGHUITests.swift; sourceTree = "<group>"; };
 		E18A843E288488E20049008C /* LearningGHUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningGHUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E18A844B288492B60049008C /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				E18A8423288488E00049008C /* ContentView.swift */,
 				E18A8425288488E20049008C /* Assets.xcassets */,
 				E18A8427288488E20049008C /* Preview Content */,
+				E18A844B288492B60049008C /* MyModel.swift */,
 			);
 			path = LearningGH;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E18A8424288488E00049008C /* ContentView.swift in Sources */,
+				E18A844C288492B60049008C /* MyModel.swift in Sources */,
 				E18A8422288488E00049008C /* LearningGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
